@@ -1,6 +1,7 @@
 ---
 title: "Zaira Dev"
 description: "💡 Compartiendo contenido sobre **desarrollo de software**, 🤖 **inteligencia artificial** y otras cosas interesantes. 🚀✨"
+remote_theme: pages-themes/minimal@v0.2.0
 layout: default
 ---
 
