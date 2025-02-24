@@ -8,23 +8,17 @@ Si tienes un repositorio en GitHub y quieres mostrar tu trabajo de forma sencill
 
 ✅ Ventajas de GitHub Pages:
 
-🔹 No necesitas configurar servidores ni bases de datos.
-
-🔹 Integración directa con tu repositorio.
-
-🔹 Compatible con HTML, CSS, JavaScript y Jekyll.
-
-🔹 Ideal para documentaciones, portafolios o blogs técnicos.
+- No necesitas configurar servidores ni bases de datos.
+- Integración directa con tu repositorio.
+- Compatible con HTML, CSS, JavaScript y Jekyll.
+- Ideal para documentaciones, portafolios o blogs técnicos.
 
 
 💡 ¿Cómo activarlo?
 
-1️⃣ Crea un repositorio: [tuusuario.github.io]
-
-2️⃣ Clona tu repositorio en local y crea un archivo index.html
-
-3️⃣ Haz un primer commit
-
-4️⃣ ¡Listo! Tu web estará disponible en [tuusuario.github.io]
+1. Crea un repositorio: [tuusuario.github.io]
+2. Clona tu repositorio en local y crea un archivo index.html
+3️. Haz un primer commit
+4️. ¡Listo! Tu web estará disponible en [tuusuario.github.io]
 
 Yo ya he comenzado a usarlo en zrubio.github.io para compartir mis artículos. Si te interesa, en un próximo post puedo explicar cómo personalizarlo con un dominio propio o añadir Jekyll para automatizar contenido.
