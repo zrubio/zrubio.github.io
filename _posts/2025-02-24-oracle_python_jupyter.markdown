@@ -23,4 +23,4 @@ Esto me motiva a seguir profundizando mis conocimientos en bases de datos y anal
 
 👉 ¿Qué aprendiste hoy? ¡Cuéntamelo en los comentarios! 💬
 
-#Python #Oracle #BasesDeDatos #Aprendizaje #AnalíticaDeDatos
+#Python #Oracle #BasesDeDatos #Aprendizaje #AnalíticaDeDatos 
